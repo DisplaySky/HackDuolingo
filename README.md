@@ -1,4 +1,4 @@
-# Hack Duolingo
+# Hack Duolingo v1.2
 Để hack duolingo trước tiện bạn hãy bận console bằng cánh bấm vào f12, rồi vào thảo luận của duolingo => dán code này vào và enter
 Code: duo.old_web_url_whitelist=["^.+"];
 Sau khi xong thì làm như video này: https://youtu.be/VTyENgc-3gk
