@@ -13,8 +13,9 @@ sau mới vào được duolingo
 => còn hai cái:
 var arr =Dãn mã ở đây giống video; 
 var url ="copy url ở đây"; (VD: /2017-06-30/sessions/Ct0Q8Y3u53QG8A05) 
-###Thì lấy dữ liệu ở chỗ giống video
 
-##Code thì bạn lấy ở file HackLingot
+### Thì lấy dữ liệu ở chỗ giống video
+
+## Code thì bạn lấy ở file HackLingot
 
 # HotaVN => https://hotavn.ga/
