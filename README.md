@@ -18,4 +18,4 @@ var url ="copy url ở đây"; (VD: /2017-06-30/sessions/Ct0Q8Y3u53QG8A05)
 
 ## Code thì bạn lấy ở file HackLingot
 
-# HotaVN => https://hotavn.ga/
+# HotaVN => https://hotavn.com/
