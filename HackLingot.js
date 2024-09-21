@@ -1,7 +1,7 @@
  // Hack xp + ligont (XHR)
 
   var arr =Dãn mã ở đây giống video; 
-var url ="copy url ở đây"; (VD: /2017-06-30/sessions/Ct0Q8Y3u53QG8A05) 
+var url ="https://www.duolingo.com/2017-06-30/users/"; //VD: /2017-06-30/sessions/Ct0Q8Y3u53QG8A05 
 
 var count=0;
 var solan=600;
